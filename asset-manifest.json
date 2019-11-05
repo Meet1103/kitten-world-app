@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kitten-world-app/static/css/main.4b460a92.chunk.css",
+    "main.js": "/kitten-world-app/static/js/main.11b2206c.chunk.js",
+    "main.js.map": "/kitten-world-app/static/js/main.11b2206c.chunk.js.map",
+    "runtime-main.js": "/kitten-world-app/static/js/runtime-main.44bea1b8.js",
+    "runtime-main.js.map": "/kitten-world-app/static/js/runtime-main.44bea1b8.js.map",
+    "static/js/2.71f2c87a.chunk.js": "/kitten-world-app/static/js/2.71f2c87a.chunk.js",
+    "static/js/2.71f2c87a.chunk.js.map": "/kitten-world-app/static/js/2.71f2c87a.chunk.js.map",
+    "index.html": "/kitten-world-app/index.html",
+    "precache-manifest.2b4f872f6a608e10755560843b33f2b8.js": "/kitten-world-app/precache-manifest.2b4f872f6a608e10755560843b33f2b8.js",
+    "service-worker.js": "/kitten-world-app/service-worker.js",
+    "static/css/main.4b460a92.chunk.css.map": "/kitten-world-app/static/css/main.4b460a92.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44bea1b8.js",
+    "static/js/2.71f2c87a.chunk.js",
+    "static/css/main.4b460a92.chunk.css",
+    "static/js/main.11b2206c.chunk.js"
+  ]
+}
